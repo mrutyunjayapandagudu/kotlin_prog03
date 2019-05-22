@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kotlin_prog03</string>
+    <string name="app1">USER NAME</string>
+    <string name="app2">PASSWORD</string>
+    <string name="app3">LOGIN</string>
+    <string name="app4">FORGET</string>
+</resources>
